@@ -1,0 +1,10 @@
+# Ignore large raw datasets
+data/raw/
+
+# Ignore Python virtual environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore environment variables (database credentials)
+.env
