@@ -8,3 +8,10 @@ __pycache__/
 
 # Ignore environment variables (database credentials)
 .env
+
+# Catch any CSV exports or logs outside data/raw/
+*.csv
+*.log
+
+# Local editor settings
+.vscode/
