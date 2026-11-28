@@ -2,6 +2,12 @@
 
 An end-to-end Python and PostgreSQL data pipeline that ingests 5 years of historical S&P 500 stock prices into a normalized relational schema, runs SQL window-function analytics, and benchmarks B-Tree indexing decisions using `EXPLAIN ANALYZE`.
 
+## Dashboard Preview
+
+![S&P 500 Market Analytics Dashboard](Dashboard.png)
+
+[Download Interactive Power BI Report (.pbix)](sp500_dashboard.pbix?raw=true)
+
 ## Project Structure
 
 ```text
